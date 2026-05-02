@@ -20,20 +20,20 @@ Build a responsive UI using Tailwind CSS or Bootstrap
 
 # Tech Stack
 
-React 
-JavaScript XML
-Tailwind CSS 
+*React 
+*JavaScript XML
+*Tailwind CSS 
 
 # Features
 
-Vote on poll options
-Live vote count updates
-Percentage-based progress bars
-One vote per user (buttons disabled after voting)
-Reset all votes with a single click
-Persistent data using `localStorage`
-Fully responsive design (mobile & desktop)
-Clean UI with 3+ complementary colors
+*Vote on poll options
+*Live vote count updates
+*Percentage-based progress bars
+*One vote per user (buttons disabled after voting)
+*Reset all votes with a single click
+*Persistent data using `localStorage`
+*Fully responsive design (mobile & desktop)
+*Clean UI with 3+ complementary colors
 
 
 # State Management
@@ -62,7 +62,7 @@ Handles form submission
 
 # `PollList.jsx`
 
-* Renders list of poll options
+Renders list of poll options
 
 # `PollOption.jsx`
 
